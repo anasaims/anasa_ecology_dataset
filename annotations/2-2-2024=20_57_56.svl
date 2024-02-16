@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="4" name="" sampleRate="44100" start="0" end="1246320" type="sparse" dimensions="2" resolution="1" notifyOnAdd="true" dataset="3" subtype="box" minimum="-285.019" maximum="20091.8" units="Hz" />
+    <dataset id="3" dimensions="2">
+      <point frame="0" value="3432.41" duration="54720" extent="9554.13" label="1" />
+      <point frame="86976" value="2932.55" duration="126336" extent="12159.2" label="1" />
+      <point frame="223728" value="5123.76" duration="11472" extent="3092.01" label="1" />
+      <point frame="248832" value="3172.65" duration="69264" extent="16919.1" label="1" />
+      <point frame="346976" value="1260.74" duration="13524" extent="3407.99" label="1" />
+      <point frame="494816" value="3551.05" duration="51296" extent="2170.41" label="1" />
+      <point frame="661696" value="3298.68" duration="28448" extent="1236.63" label="1" />
+      <point frame="706080" value="3634.58" duration="24096" extent="1101.42" label="1" />
+      <point frame="807360" value="3793.99" duration="15072" extent="1256.98" label="1" />
+      <point frame="871584" value="5623.14" duration="14880" extent="1970.87" label="1" />
+      <point frame="894720" value="3582.95" duration="22944" extent="954.067" label="1" />
+      <point frame="1071504" value="2809.34" duration="18360" extent="1960.67" label="1" />
+      <point frame="1094464" value="875.898" duration="99456" extent="3760.36" label="0" />
+      <point frame="1197456" value="2523.48" duration="19392" extent="2246.53" label="1" />
+      <point frame="1236816" value="5543.26" duration="9504" extent="1942.87" label="1" />
+    </dataset>
+  </data>
+  <display>
+    <layer id="5" type="boxes" name="Boxes &lt;2&gt;" model="4"  verticalScale="0"  colourName="Bright Red" colour="#ff0000" darkBackground="true" >
+      <measurement startFrame="333060" endFrame="339388" startY="0.235092" endY="0.275229"/>
+</layer>
+  </display>
+</sv>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="28" name="" sampleRate="44100" start="6944" end="1318760" type="sparse" dimensions="2" resolution="1" notifyOnAdd="true" dataset="27" subtype="box" minimum="2730.08" maximum="12176.7" units="Hz" />
+    <dataset id="27" dimensions="2">
+      <point frame="6944" value="4569.59" duration="9072" extent="3471.73" label="1" />
+      <point frame="17024" value="4046.31" duration="7056" extent="1993.86" label="1" />
+      <point frame="38916" value="4537.02" duration="9648" extent="5572.95" label="1" />
+      <point frame="49752" value="3848.67" duration="3744" extent="6480.63" label="1" />
+      <point frame="54396" value="3904.13" duration="4536" extent="6133.77" label="1" />
+      <point frame="62172" value="3335.58" duration="4068" extent="7919.65" label="1" />
+      <point frame="66528" value="3960.39" duration="4896" extent="6149.58" label="1" />
+      <point frame="73476" value="3241.48" duration="3852" extent="7014.19" label="1" />
+      <point frame="78480" value="3481.87" duration="5220" extent="6413.43" label="1" />
+      <point frame="84852" value="3288.19" duration="5076" extent="7494.14" label="1" />
+      <point frame="91116" value="3532.05" duration="5400" extent="6505.85" label="1" />
+      <point frame="98784" value="2829.51" duration="4176" extent="6855.68" label="1" />
+      <point frame="104436" value="3039.35" duration="4428" extent="6508.25" label="1" />
+      <point frame="111132" value="3127.58" duration="4500" extent="7054.98" label="1" />
+      <point frame="117000" value="3634.58" duration="4824" extent="7782.84" label="1" />
+      <point frame="125640" value="2829.51" duration="3600" extent="8030.23" label="1" />
+      <point frame="131076" value="3335.58" duration="5400" extent="7680.66" label="1" />
+      <point frame="151380" value="3793.99" duration="8280" extent="5617.97" label="1" />
+      <point frame="163656" value="4702.24" duration="3924" extent="4642.63" label="1" />
+      <point frame="168084" value="3150.03" duration="10872" extent="1723.45" label="1" />
+      <point frame="216648" value="3264.75" duration="8784" extent="6013.5" label="1" />
+      <point frame="225432" value="3195.43" duration="72" extent="69.322" label="1" />
+      <point frame="228240" value="3407.94" duration="4968" extent="6208.21" label="1" />
+      <point frame="234504" value="3713.43" duration="5328" extent="4327.88" label="1" />
+      <point frame="268848" value="3557.41" duration="8064" extent="5142.28" label="1" />
+      <point frame="282240" value="4193.66" duration="8784" extent="4952.78" label="1" />
+      <point frame="296640" value="3988.82" duration="8928" extent="2832.47" label="1" />
+      <point frame="317088" value="3557.41" duration="9288" extent="5854.56" label="1" />
+      <point frame="343224" value="4409.02" duration="9504" extent="5700.95" label="1" />
+      <point frame="354744" value="4377.59" duration="11736" extent="4967.28" label="1" />
+      <point frame="380672" value="4346.39" duration="8512" extent="5133.15" label="1" />
+      <point frame="392640" value="4537.02" duration="11008" extent="4609.43" label="1" />
+      <point frame="405248" value="4602.4" duration="3968" extent="4349.84" label="1" />
+      <point frame="410624" value="4635.44" duration="4480" extent="4002.23" label="1" />
+      <point frame="419072" value="3660.68" duration="3648" extent="5485.77" label="1" />
+      <point frame="423744" value="4163.77" duration="4288" extent="5181.1" label="1" />
+      <point frame="427428" value="3407.94" duration="11376" extent="876.703" label="1" />
+      <point frame="431280" value="3713.43" duration="3720" extent="6041.29" label="1" />
+      <point frame="435880" value="3432.41" duration="5160" extent="7273.06" label="1" />
+      <point frame="443320" value="4193.66" duration="4560" extent="6588.66" label="1" />
+      <point frame="448840" value="3608.67" duration="5080" extent="7808.75" label="1" />
+      <point frame="455640" value="3557.41" duration="4240" extent="6771.89" label="1" />
+      <point frame="462000" value="3821.23" duration="5120" extent="8355.5" label="1" />
+      <point frame="469360" value="3432.41" duration="4000" extent="7742.59" label="1" />
+      <point frame="474920" value="3988.82" duration="5040" extent="6948.89" label="1" />
+      <point frame="481600" value="3634.58" duration="4480" extent="7540.41" label="1" />
+      <point frame="488320" value="3793.99" duration="5400" extent="6988.34" label="1" />
+      <point frame="495040" value="3264.75" duration="5320" extent="7751.49" label="1" />
+      <point frame="510840" value="3793.99" duration="3920" extent="6315.98" label="1" />
+      <point frame="515320" value="3960.39" duration="5680" extent="6668.76" label="1" />
+      <point frame="523080" value="3432.41" duration="3840" extent="6605.49" label="1" />
+      <point frame="528560" value="3608.67" duration="4760" extent="6146.05" label="1" />
+      <point frame="537760" value="3432.41" duration="3920" extent="6605.49" label="1" />
+      <point frame="542640" value="3407.94" duration="6760" extent="5738.51" label="1" />
+      <point frame="571920" value="4254.1" duration="8560" extent="5293.5" label="1" />
+      <point frame="584000" value="3608.67" duration="8240" extent="5537.77" label="1" />
+      <point frame="596480" value="3481.87" duration="3960" extent="5470.36" label="1" />
+      <point frame="601280" value="3988.82" duration="5360" extent="3938.25" label="1" />
+      <point frame="611320" value="3457.05" duration="3840" extent="6022.49" label="1" />
+      <point frame="615680" value="3532.05" duration="5040" extent="5680.07" label="1" />
+      <point frame="629120" value="3821.23" duration="3520" extent="5523.64" label="1" />
+      <point frame="632400" value="3960.39" duration="4800" extent="5120.86" label="1" />
+      <point frame="644600" value="3904.13" duration="9120" extent="2677.48" label="1" />
+      <point frame="656640" value="3660.68" duration="3480" extent="6449.29" label="1" />
+      <point frame="660480" value="3582.95" duration="4480" extent="5242.11" label="1" />
+      <point frame="686400" value="3904.13" duration="8920" extent="4858.02" label="1" />
+      <point frame="705840" value="3904.13" duration="19640" extent="900.125" label="1" />
+      <point frame="718960" value="4569.59" duration="9680" extent="4978.01" label="1" />
+      <point frame="731280" value="4193.66" duration="4000" extent="7061.56" label="1" />
+      <point frame="734720" value="4409.02" duration="5040" extent="5773.53" label="1" />
+      <point frame="765360" value="3876.3" duration="8200" extent="2207.23" label="1" />
+      <point frame="776080" value="4134.09" duration="8320" extent="4947.16" label="1" />
+      <point frame="780920" value="3172.65" duration="20040" extent="759.508" label="1" />
+      <point frame="790840" value="4315.4" duration="8600" extent="5794.57" label="1" />
+      <point frame="801840" value="3195.43" duration="14400" extent="1748.29" label="1" />
+      <point frame="842960" value="4223.77" duration="8040" extent="6405.38" label="1" />
+      <point frame="871040" value="3195.43" duration="8960" extent="6699.87" label="1" />
+      <point frame="881760" value="4315.4" duration="8720" extent="6088.05" label="1" />
+      <point frame="894640" value="3506.87" duration="8280" extent="8242" label="1" />
+      <point frame="906440" value="3407.94" duration="3320" extent="6558.41" label="1" />
+      <point frame="910480" value="3821.23" duration="5160" extent="6288.74" label="1" />
+      <point frame="919480" value="2932.55" duration="3960" extent="6962.75" label="1" />
+      <point frame="924400" value="3740.09" duration="5080" extent="5876.06" label="1" />
+      <point frame="932160" value="2996.17" duration="4080" extent="7407.29" label="1" />
+      <point frame="937440" value="2911.65" duration="4400" extent="7417.65" label="1" />
+      <point frame="949840" value="3359.52" duration="2440" extent="5985.35" label="1" />
+      <point frame="953680" value="3876.3" duration="4000" extent="5603.24" label="1" />
+      <point frame="996240" value="3713.43" duration="8624" extent="4740.83" label="1" />
+      <point frame="1039920" value="4134.09" duration="9408" extent="5277.88" label="1" />
+      <point frame="1066320" value="4668.72" duration="8440" extent="6036.74" label="1" />
+      <point frame="1077920" value="3532.05" duration="3360" extent="6222.68" label="1" />
+      <point frame="1081720" value="3241.48" duration="5120" extent="5904.97" label="1" />
+      <point frame="1107200" value="3506.87" duration="8240" extent="5008.09" label="1" />
+      <point frame="1122600" value="3457.05" duration="8520" extent="5559.46" label="1" />
+      <point frame="1150800" value="3506.87" duration="6920" extent="1728.04" label="1" />
+      <point frame="1160640" value="3432.41" duration="7240" extent="5143.69" label="1" />
+      <point frame="1174120" value="3532.05" duration="6880" extent="5105.62" label="1" />
+      <point frame="1210840" value="4193.66" duration="7960" extent="6901.67" label="1" />
+      <point frame="1221800" value="3582.95" duration="9160" extent="6527.02" label="1" />
+      <point frame="1235680" value="3195.43" duration="8280" extent="8222" label="1" />
+      <point frame="1259200" value="3960.39" duration="8520" extent="5655.76" label="1" />
+      <point frame="1280440" value="3988.82" duration="12160" extent="4899.6" label="1" />
+      <point frame="1296000" value="3766.94" duration="10400" extent="7732.45" label="1" />
+      <point frame="1311320" value="3821.23" duration="7440" extent="8268.7" label="1" />
+    </dataset>
+  </data>
+  <display>
+    <layer id="29" type="boxes" name="Boxes" model="28"  verticalScale="0"  colourName="Bright Red" colour="#ff0000" darkBackground="true" />
+  </display>
+</sv>
